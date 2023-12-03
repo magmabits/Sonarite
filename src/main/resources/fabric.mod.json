@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "sonarite",
+  "version": "0.0.1",
+
+  "name": "Sonarite",
+  "description": "Sonarite is a mod that adds a new armor and tool set to Minecra-. Did you hear that? Sounded like... a sculk sensor?",
+  "authors": [
+    "magmabits"
+  ],
+  "contact": {
+    "homepage": "https://magmabits.vercel.app",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "ARR",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.magmabits.sonarite.Sonarite"
+    ],
+    "client": [
+      "net.magmabits.sonarite.SonariteClient"
+    ]
+  },
+  "mixins": [
+    "sonarite.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
