@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonarite:sonarite_block"
+    }
+  ],
+  "result": {
+    "item": "sonarite:sonarite_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " e ",
+    "e#e",
+    " e "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "e": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "item": "sonarite:sonarite_ingot"
+  }
+}

@@ -14,7 +14,7 @@
   },
 
   "license": "ARR",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/sonarite/icon.png",
 
   "environment": "*",
   "entrypoints": {

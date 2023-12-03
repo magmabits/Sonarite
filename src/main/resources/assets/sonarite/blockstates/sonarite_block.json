@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sonarite:block/sonarite_block"
+    }
+  }
+}

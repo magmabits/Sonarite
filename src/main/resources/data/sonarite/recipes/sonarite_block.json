@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sonarite:sonarite_ingot"
+    }
+  },
+  "result": {
+    "item": "sonarite:sonarite_block"
+  }
+}

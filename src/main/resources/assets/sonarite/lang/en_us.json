@@ -1,0 +1,17 @@
+{
+  "itemGroup.sonarite.sonarite": "Sonarite",
+
+  "item.sonarite.sonarite_ingot": "Sonarite Ingot",
+  "item.sonarite.sonarite_sword": "Sonarite Sword",
+  "item.sonarite.sonarite_pickaxe": "Sonarite Pickaxe",
+  "item.sonarite.sonarite_axe": "Sonarite Axe",
+  "item.sonarite.sonarite_shovel": "Sonarite Shovel",
+  "item.sonarite.sonarite_hoe": "Sonarite Hoe",
+
+  "item.sonarite.sonarite_helmet": "Sonarite Helmet",
+  "item.sonarite.sonarite_chestplate": "Sonarite Chestplate",
+  "item.sonarite.sonarite_leggings": "Sonarite Leggings",
+  "item.sonarite.sonarite_boots": "Sonarite Boots",
+
+  "block.sonarite.sonarite_block": "Block of Sonarite"
+}
