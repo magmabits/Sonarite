@@ -11,8 +11,5 @@
 > Works the same as Netherite Armor, just upgrade Diamond Equipment using Sonarite Ingots.
 > A full set of Sonarite Armor slows the player down in exchange for a boost in damage.
 
-### Sonarite Sword
-> Lights up the target on hit, making it easier to see. Same damage as a Netherite Sword, but increased durability.
-
 ### Sonarite Tools
 > Increased mining speed and durability.
